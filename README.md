@@ -1,6 +1,8 @@
-# Awesome-Time-Tracking-Timesheet-Software
-
 # Awesome Time Tracking & Timesheet Software
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Time Tracking & Timesheet Software" width="100%">
+</p>
 
 > A curated list of top Time Tracking and Timesheet Software platforms — both SaaS/Hosted commercial solutions and open-source alternatives for tracking billable hours, managing projects, and generating client invoices.  
 > 🌟 Star this repo if you find it useful! 🌟
