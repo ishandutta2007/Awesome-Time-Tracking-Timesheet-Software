@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Time-Tracking-Timesheet-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Time-Tracking-Timesheet-Software?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Time-Tracking-Timesheet-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Time-Tracking-Timesheet-Software?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Time-Tracking-Timesheet-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Time-Tracking-Timesheet-Software?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -110,7 +110,7 @@ Self-hosted, transparent, and privacy-preserving time tracking, timesheet, and p
 
 *The table below is sorted descending by GitHub stargazers count.*
 
-| 📦 Repository & Project | ⭐ GitHub Stars | 💻 Technology Stack | 📜 License | 🎯 Highlights & Capabilities |
+| 📦 Repository & Project | ⭐ GitHub_Stars | 💻 Technology Stack | 📜 License | 🎯 Highlights & Capabilities |
 |:---|:---|:---|:---|:---|
 | **[Super Productivity](https://github.com/super-productivity/super-productivity)** | [![Super Productivity Stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=social&color=white)](https://github.com/super-productivity/super-productivity/stargazers) | TypeScript / Electron / Angular | **MIT** | Advanced personal productivity tool, Pomodoro timer, timebox planner, and two-way sync with Jira, GitHub, GitLab, and OpenProject. |
 | **[ActivityWatch](https://github.com/ActivityWatch/activitywatch)** | [![ActivityWatch Stars](https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social&color=white)](https://github.com/ActivityWatch/activitywatch/stargazers) | Python / Rust / Vue / TypeScript | **MPL-2.0** | Automated, extensible, privacy-first tracker running locally. Monitors window activity, web usage, and editor state without transmitting data. |
